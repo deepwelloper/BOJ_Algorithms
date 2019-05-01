@@ -12,4 +12,4 @@
 [10866번 - 덱](https://www.acmicpc.net/problem/10866) 4월28일  
 
 ### 수학
-[1929번 - 소수 구하기](https://www.acmicpc.net/problem/1929) 4월28일  
+[1929번 - 소수 구하기](https://www.acmicpc.net/problem/1929) 4월28일  
