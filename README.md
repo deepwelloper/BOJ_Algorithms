@@ -13,3 +13,7 @@
 
 ### 수학
 [1929번 - 소수 구하기](https://www.acmicpc.net/problem/1929) 4월28일  
+
+### 그리디
+
+[1931번 - 회의실배정](https://www.acmicpc.net/problem/1931)
